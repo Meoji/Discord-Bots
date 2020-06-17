@@ -3,7 +3,7 @@
 
 <h3 align="center">Powerful anti-spam bot.<br>
 Automate your moderation effectively,<br>
-Fire is the only bot you'll need.</h3>
+shut down raids, and more.</h3>
 
 ## Help
 

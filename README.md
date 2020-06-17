@@ -1,5 +1,7 @@
-![Meoji Is Great!](https://raw.githubusercontent.com/Meoji/Branding/master/logos/logos_discord/test.png?raw=true)
+![Meoji Is Great!](https://raw.githubusercontent.com/Meoji/Branding/master/banners/discord_bots.png?raw=true)
 <h3 align="center">Features<br></h3>
+
+
 
  - [x] reCaptcha verification with VPN and proxy blocking
  - [x] locking for;

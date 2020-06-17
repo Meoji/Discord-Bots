@@ -5,33 +5,74 @@
 Automate your moderation effectively,<br>
 shut down raids, and more.</h3>
 
-## Help
+## Features
 
-The default prefix is `$` but you can change this by doing `$prefix <new prefix>` (surround it in `""` if you want spaces). You can also mention the bot to use commands `@Fire#0682 meme`. Use the `help` command to see a list of commands and do `$help <command>` for more info and usage. Fire is currently in beta so things may break from time to time.
-
-## Support
-
-For support, join the [support discord](https://inv.wtf/fire).
-
-> **NOTE**: Support will not be provided if you attempt to self-host Fire. It is NOT recommended!
-
-## Built With
-
-* [Python 3.7.5](https://www.python.org/downloads/) - The language used
-* [discord.py](https://github.com/Rapptz/discord.py) - Used to run the bot
-
-## Authors
-
-* **Geek** *aka GamingGeek* - *Main Developer* - [GamingGeek](https://github.com/GamingGeek)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFireDiscordBot%2Fbot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGamingGeek%2FFire?ref=badge_large)
-
-## Acknowledgments
-
-* **KSoft API**: If you need an image api, KSoft is what you need. [API](https://api.ksoft.si)
-* **OpenSSL**: Used in the `grpcio` pip module which is required by Fire for Google Assistant features
+## Features
+ - [ ] statistics for
+    - [ ] messages sent
+    - [ ] minutes in voice
+    - [ ] most active channels
+ - [ ] customisable mute/ban for
+    - [ ] more than X user joins in a minute
+    - [ ] more than Y user joins in a minute with similar names
+    - [ ] name containing blacklisted/zalgo characters/words/phrases
+ - [ ] demote admins (and undo actions) when they
+    - [ ] mass create/delete roles/channels
+    - [ ] mass kick/ban
+    - [ ] above but between multiple admins
+ - [x] hCAPTCHA verification via web with VPN and proxy blocking
+ - [x] locking
+    - [x] channels
+    - [x] categories
+    - [x] entire server
+ - [x] [un]mute, tempmute
+ - [x] [un]ban, tempban
+ - [x] kick
+ - [x] warnings
+ - [x] anti-selfbot
+    - [x] ban for embeds
+    - [x] mute for delete within 1s of sending
+    - [x] mute for editing 3 times in 5 seconds
+ - [x] blacklisting of messages
+    - [x] with links to specific domains
+    - [x] with specific file types
+    - [x] with any links
+    - [x] with discord gift links
+    - [x] with discord server invites
+    - [x] with content spoilers
+    - [x] matching specific regex
+ - [x] activity ranking
+ - [x] channel purge up to specified time
+ - [x] purging channel of
+    - [x] embeds (even from bots)
+    - [x] attached files
+    - [x] un-typable characters
+    - [x] large amounts of emojis
+ - [x] logging
+    - [x] message delete, edit, \[un]pin, reaction clear
+    - [x] role add/remove
+    - [x] role create/edit/delete
+    - [x] channel create/edit/delete
+    - [x] server edit
+    - [x] banned users
+    - [x] nickname changes
+    - [x] invite create/delete
+    - [x] emoji createt/edit/delete
+ - [x] backup and restore
+    - [x] channels
+    - [x] categories
+    - [x] roles
+ - [x] mass ban everyone
+    - [x] who's exactly matches a given name
+    - [x] who's name contains a given search (case insensitive)
+    - [x] who is muted
+ - [x] user lookup, including
+    - [x] list of roles
+    - [x] date joined discord
+    - [x] date joined server
+    - [x] name, nickname
+    - [x] avatar
+    - [x] last message date
+    - [x] last online date (requires logging)
+    - [x] last status (requires logging)
+    - [x] permissions

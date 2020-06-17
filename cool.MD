@@ -1,8 +1,8 @@
 ![Fire](https://raw.githubusercontent.com/Meoji/Discord-Bots/master/very%20cool.png?raw=true)
 
 
-<h3 align="center">Advanced protection bot.<br>
-With memes, music, moderation & more,<br>
+<h3 align="center">Powerful anti-spam bot.<br>
+Automate your moderation effectively,<br>
 Fire is the only bot you'll need.</h3>
 
 ## Help

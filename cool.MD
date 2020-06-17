@@ -6,22 +6,8 @@ Automate your moderation effectively,<br>
 shut down raids, and more.</h3>
 
 ## Features
-
-## Features
- - [ ] statistics for
-    - [ ] messages sent
-    - [ ] minutes in voice
-    - [ ] most active channels
- - [ ] customisable mute/ban for
-    - [ ] more than X user joins in a minute
-    - [ ] more than Y user joins in a minute with similar names
-    - [ ] name containing blacklisted/zalgo characters/words/phrases
- - [ ] demote admins (and undo actions) when they
-    - [ ] mass create/delete roles/channels
-    - [ ] mass kick/ban
-    - [ ] above but between multiple admins
- - [x] hCAPTCHA verification via web with VPN and proxy blocking
- - [x] locking
+ - [x] reCaptcha verification with VPN and proxy blocking
+ - [x] locking for;
     - [x] channels
     - [x] categories
     - [x] entire server

@@ -1,9 +1,9 @@
 ![Meoji Is Great!](https://raw.githubusercontent.com/Meoji/Branding/master/banners/discord_bots.png?raw=true)
 <h3 align="center">Features<br></h3>
 
+# Anti-Spam Features
 
-
- - [x] reCaptcha verification with VPN and proxy blocking
+- [x] reCaptcha verification with VPN and proxy blocking
  - [x] locking for;
     - [x] channels
     - [x] categories

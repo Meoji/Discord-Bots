@@ -1,12 +1,11 @@
 ![Meoji Is Great!](https://raw.githubusercontent.com/Meoji/Branding/master/logos/logos_discord/test.png?raw=true)
 <h3 align="center">Advanced discord bots.<br>
-Each developed with precision,<br></h3>
+Each developed with precision,<br>
+simplicity, and quality.</h3>
 
 <h3 align="center">Features<br>
 simplicity, and quality.</h3>
 
-
-## Features
  - [x] reCaptcha verification with VPN and proxy blocking
  - [x] locking for;
     - [x] channels

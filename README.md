@@ -3,11 +3,11 @@
 Each developed with precision,<br>
 simplicity, and quality.</h3>
 
-<h3 align="center"><<br></h3>
-<h3 align="center"><<br></h3>
-<h3 align="center"><<br></h3>
-<h3 align="center"><<br></h3>
-<h3 align="center"><<br></h3>
+<h3 align="center"><br></h3>
+<h3 align="center"><br></h3>
+<h3 align="center"><br></h3>
+<h3 align="center"><br></h3>
+<h3 align="center"><br></h3>
 
 <h3 align="center">Features<br></h3>
 

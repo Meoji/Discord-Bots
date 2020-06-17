@@ -3,7 +3,7 @@
 
 <h3 align="center">Advanced discord bots.<br>
 Each developed with precision,<br>
-shut down raids, and more.</h3>
+simplicity, and quality.</h3>
 
 ## Features
  - [x] reCaptcha verification with VPN and proxy blocking

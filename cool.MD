@@ -11,18 +11,9 @@ shut down raids, and more.</h3>
     - [x] channels
     - [x] categories
     - [x] entire server
- - [x] [un]mute, tempmute
- - [x] [un]ban, tempban
- - [x] kick
- - [x] warnings
- - [x] anti-selfbot
-    - [x] ban for embeds
-    - [x] mute for delete within 1s of sending
-    - [x] mute for editing 3 times in 5 seconds
- - [x] blacklisting of messages
-    - [x] with links to specific domains
-    - [x] with specific file types
-    - [x] with any links
+ - [x] blacklisting for;
+    - [x] links to specific domains
+    - [x] specific file types
     - [x] with discord gift links
     - [x] with discord server invites
     - [x] with content spoilers

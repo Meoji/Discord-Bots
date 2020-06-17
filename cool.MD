@@ -1,7 +1,7 @@
 ![Fire](https://raw.githubusercontent.com/Meoji/Discord-Bots/master/very%20cool.png?raw=true)
 
 
-<h3 align="center">A Discord bot for all your needs.<br>
+<h3 align="center">Advanced protection bot.<br>
 With memes, music, moderation & more,<br>
 Fire is the only bot you'll need.</h3>
 

@@ -1,8 +1,7 @@
 ![Meoji Is Great!](https://raw.githubusercontent.com/Meoji/Branding/master/logos/logos_discord/test.png?raw=true)
 <h3 align="center">Advanced Bots.<br>
-Developed to perfection,<br>
-amazing stability.</h3>
-<h3 align="center"><br></h3>
+Developed to perfection.<br></h3>
+# <h3 align="center"><br></h3>
 
 <h3 align="center">Features<br></h3>
 

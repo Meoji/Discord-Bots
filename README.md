@@ -1,4 +1,4 @@
-![Fire](https://raw.githubusercontent.com/Meoji/Discord-Bots/master/Discordo.png?raw=true)
+![Meoji Is Great!](https://raw.githubusercontent.com/Meoji/Discord-Bots/master/Discordo.png?raw=true)
 
 
 <h3 align="center">Advanced discord bots.<br>

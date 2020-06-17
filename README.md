@@ -1,9 +1,9 @@
 ![Fire](https://raw.githubusercontent.com/Meoji/Discord-Bots/master/Discordo.png?raw=true)
+
+
 <h3 align="center">Powerful anti-spam bot.<br>
 Automate your moderation effectively,<br>
 shut down raids, and more.</h3>
-
-A small collection of discord bots, including a powerful anti-spam &amp; anti-raid bot like no other, and a textual based life simulator, bringing both security, and life to your server.
 
 ## Features
  - [x] reCaptcha verification with VPN and proxy blocking

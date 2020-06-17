@@ -3,6 +3,8 @@
 Each developed with precision,<br>
 simplicity, and quality.</h3>
 
+<h3 align="center">Advanced discord bots.<br>
+
 ## Features
  - [x] reCaptcha verification with VPN and proxy blocking
  - [x] locking for;

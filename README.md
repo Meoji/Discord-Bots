@@ -3,8 +3,9 @@
 Each developed with precision,<br>
 simplicity, and quality.</h3>
 
-<h3 align="center">Features<br>
-simplicity, and quality.</h3>
+
+
+<h3 align="center">Features<br></h3>
 
  - [x] reCaptcha verification with VPN and proxy blocking
  - [x] locking for;

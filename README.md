@@ -1,5 +1,4 @@
 ![Fire](https://raw.githubusercontent.com/Meoji/Discord-Bots/master/Discordo.png?raw=true)
-
 <h3 align="center">Powerful anti-spam bot.<br>
 Automate your moderation effectively,<br>
 shut down raids, and more.</h3>

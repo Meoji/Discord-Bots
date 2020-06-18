@@ -5,7 +5,7 @@
 
 - [x] VPN/Proxy Blocking With reCaptcha Human Authentication.
 
-- [x] Whitelisting/Blacklisting Of Domains, Domain Endings, Specific File-Types, Server Invites, Content Spoilers, Regex, And Nitro Gifts.
+- [x] Whitelisting/Blacklisting Of Domains, Domain Endings, Specific File-Types, Server Invites, Content Spoilers, Regex, And Gifts.
 
 - [x] Fast Locking/Unlocking Of Channels, Categories, And The Entire Server.
 

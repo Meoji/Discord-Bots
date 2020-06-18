@@ -25,14 +25,20 @@
 
 # Entertainment
 
-- [x] Powerful Economy, With Lots Of Ways To Make Money.
-
-- [x] More Than Just Economy; Fundamental Variables Such As "Health" To Give Variety.
+- [x] Powerful Economy, With Lots Of Ways To Make, Spend, And Gamble Money.
 
 - [x] Decision Making Scenarios.
+
+- [x] Lots Of User-User Interaction.
+
+- [x] Not Just Another Economy Bot; Other Fun Variables For Quality Of Life, And Health.
 
 - [x] Hundreds Of Various Responses.
 
 - [x] Easy To Read Embeds, With Cool Flat Icons.
+
+- [x] Compare Your Stats With Others.
+
+- [x] Auto-Progress Saving Across Servers.
 
 *[More Information About This Bot Here:](https://google.com)*

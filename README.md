@@ -21,7 +21,7 @@
 
 - [x] Anti-Admin Abuse, And Admin Performance Monitoring.
 
-*[More Information About This Bot Here:](https://google.com)*
+*[More Information About This Bot Here.](https://google.com)*
 
 # Entertainment
 
@@ -45,4 +45,4 @@
 
 - [x] Auto-Progress Saving Across Servers.
 
-*[More Information About This Bot Here:](https://google.com)*
+*[More Information About This Bot Here.](https://google.com)*

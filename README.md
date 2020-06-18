@@ -27,6 +27,8 @@
 
 - [x] Powerful Economy Bot Like No Other, With Lots Of Ways To Make, Spend, And Gamble Money.
 
+- [x] You Can Even; Run Your Own Business, Hire Employees, Buy Upgrades, And Create Advertisements!
+
 - [x] Cool Decision Making Scenarios.
 
 - [x] Lots Of User-To-User Interaction.

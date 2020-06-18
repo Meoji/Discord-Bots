@@ -25,23 +25,25 @@
 
 # Entertainment
 
-- [x] Powerful Economy, With Lots Of Ways To Make, Spend, And Gamble Money.
+- [x] Powerful Economy Bot Like No Other, With Lots Of Ways To Make, Spend, And Gamble Money.
 
-- [x] Decision Making Scenarios.
+- [x] Cool Decision Making Scenarios.
 
-- [x] Lots Of User-User Interaction.
+- [x] Lots Of User-To-User Interaction.
 
-- [x] Not Just Another Economy Bot; Other Fun Variables For Quality Of Life, And Health.
+- [x] Not Just Another Economy Bot; Other Fun Variables For Quality Of Life, And Health (With Meters).
 
-- [x] Fully Dynamic - Stats Like "Wealth" WILL Deteriorate Over Time.
+- [x] Fully Dynamic - Some Stats May Deteriorate Over Time Without Any User Input Or Command Used.
 
 - [x] Hundreds Of Various Responses.
 
 - [x] True Randomness - No More Rigged Gambling!
 
-- [x] Responses Are Nicely Displayed, With Some Cool Icons.
+- [x] Holiday Events Synced In Real-Time, Changing Aspects Of The Game.
 
 - [x] Compare Your Stats With Others.
+
+- [x] Responses Are Nicely Displayed, With Some Cool Icons.
 
 - [x] Auto-Progress Saving Across Servers.
 

@@ -43,8 +43,10 @@
 
 - [x] Compare Your Stats With Others.
 
-- [x] Responses Are Nicely Displayed, With Some Cool Icons.
+- [x] Bot Responses Are Nicely Displayed, With Some Cool Icons.
 
 - [x] Auto-Progress Saving Across Servers.
+
+- [x] Almost No Response Delay, Or Ping Spikes, Thanks To The Bot Being Powered By Google.
 
 *[More Information About This Bot Here.](https://google.com)*

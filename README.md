@@ -33,9 +33,13 @@
 
 - [x] Not Just Another Economy Bot; Other Fun Variables For Quality Of Life, And Health.
 
+- [x] Fully Dynamic - Stats Like "Wealth" WILL Deteriorate Over Time.
+
 - [x] Hundreds Of Various Responses.
 
-- [x] Easy To Read Embeds, With Cool Flat Icons.
+- [x] True Randomness - No More Rigged Gambling!
+
+- [x] Responses Are Nicely Displayed, With Some Cool Icons.
 
 - [x] Compare Your Stats With Others.
 

@@ -22,3 +22,17 @@
 - [x] Anti-Admin Abuse, And Admin Performance Monitoring.
 
 *[More Information About This Bot Here:](https://google.com)*
+
+# Entertainment
+
+- [x] Powerful Economy, With Lots Of Ways To Make Money.
+
+- [x] More Than Just Economy; Fundamental Variables Such As "Health" To Give Variety.
+
+- [x] Decision Making Scenarios.
+
+- [x] Hundreds Of Various Responses.
+
+- [x] Easy To Read Embeds, With Cool Flat Icons.
+
+*[More Information About This Bot Here:](https://google.com)*

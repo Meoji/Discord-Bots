@@ -5,7 +5,7 @@
 
 - [x] VPN/Proxy Blocking With reCaptcha Human Authentication.
 
-- [x] Blacklisting/Whitelisting Of Domains, Domain Endings, File Types, Invites, Spoilers, Regex, And Nitro Gifts.
+- [x] Whitelisting/Blacklisting Of Domains, Domain Endings, Specific File-Types, Server Invites, Content Spoilers, Regex, And Nitro Gifts.
 
 - [x] Fast Locking/Unlocking Of Channels, Categories, And The Entire Server.
 
@@ -15,11 +15,11 @@
 
 - [x] Activity Ranking And Moderation Monitoring.
 
-- [x] Logging.
+- [x] Activity And Content Logging.
 
-- [x] Mass Ban People With Matching Names, Specific Phrases, Or Is Muted.
+- [x] Mass Ban People With Matching Names, Specific Phrases, Or With "Muted" Role Applied.
 
-- [x] Anti-Admin Abuse, And Admin Performance Monitoring.
+- [x] Anti-Admin Abuse, Undo Past Actions, And Admin Performance Monitoring.
 
 *[More Information About This Bot Here.](https://google.com)*
 

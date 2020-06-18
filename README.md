@@ -20,3 +20,5 @@
 - [x] Mass Ban People With Matching Names, Specific Phrases, Or Is Muted.
 
 - [x] Anti-Admin Abuse, And Admin Performance Monitoring.
+
+*[More Information About This Bot Here:](https://google.com)*
